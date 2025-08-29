@@ -1,2 +1,18 @@
-# Calander-App
-This small project was just a small one i decided to do when i got bored, this works exactly the same as every other calendar app just with my own spin to it. so if you enjoyed it and like the app then give it a star. THANK YOUU!
+# THIS WAS MEANT FOR PERSONAL USE!!!
+
+this project was a very small and was made in less than 48hrs. if theres any bugs
+i probably wont fix them as im working on other projects.
+
+
+# Discord = pineapple_on_top
+
+# This app code contains
+
+
+- multiple xaml files
+- uses CSS and xaml codes
+
+- Has animations.
+- Working calendar.
+- Saves dates.
+- Working date and times.
